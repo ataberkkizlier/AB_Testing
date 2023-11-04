@@ -115,7 +115,3 @@ print('Test Stat = %.4f, p-value = %.4f' % (test_stat, pvalue))
 
 #Test Stat = -0.9416, p-value = 0.3493 >0.05 H
 
-
-'''Task 4: Analysis of Results
-Step 1: State which test you used and why.
-Step 2: Make a recommendation to the customer based on the test results you obtained.'''
